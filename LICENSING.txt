@@ -1,0 +1,26 @@
+LICENSING
+
+Two licenses apply to this repository, mapped by file.
+
+BOOK - Creative Commons Attribution 4.0 International (CC BY 4.0).
+Full license text: LICENSE-CC-BY-4.0.txt.
+Applies to:
+- JWT-Authentication-in-Practice.pdf
+- JWT-Authentication-in-Practice-editable.html.txt (the complete book
+  source: prose, page styles and SVG illustrations)
+- JWT-book-README.txt
+- README.md
+When you reuse or adapt the book, credit Kesavamoorthi G and link to this
+repository.
+
+CODE - MIT License.
+Full license text: LICENSE-MIT.txt.
+Applies to:
+- code/book-auth.js
+- code/book-tests.js
+- JWT-book-code-and-tests.txt (a plain-text bundle of those same two
+  JavaScript files; the code inside it is MIT, identical to code/)
+- The Chapter 7 code listings reproduced inside the book source: the code
+  itself stays MIT, the prose and illustrations around it stay CC BY 4.0.
+
+Copyright (c) 2026 Kesavamoorthi G.
